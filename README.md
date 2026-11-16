@@ -1,6 +1,6 @@
 VEX Linear Slide
 
-The computer folder contains the hand tracker. The diagnostics folder contains the motor testing I was trying. src contains the main for the V5 brain.
+The computer folder contains the hand tracker. The diagnostics folder contains the motor testing and brain display I was playing around with. src contains the main for the V5 brain.
 
 
 Required software
