@@ -1,0 +1,7 @@
+.venv/
+.venv-host/
+__pycache__/
+*.py[cod]
+.DS_Store
+computer/v5_ble_bridge/target/
+/vexlinearslide/
