@@ -1,5 +1,8 @@
 VEX Linear Slide
 
+The computer folder contains the hand tracker. The diagnostics folder contains the motor testing I was trying. src contains the main for the V5 brain.
+
+
 Required software
 Python 3.9
 OpenCV (opencv-python) version 4.11.0.86
